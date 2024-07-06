@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://windows.metasploit.com/metasploit-framework-6.4.8+20240504103507-1rapid7-1-x64.msi",
+            "url": "https://windows.metasploit.com/metasploit-framework-6.4.15-20240623103629-1rapid7-1-x64.msi",
             "hash": "1b6346011ce5354f0853dde03a021de49baea503842006cfe4a5f93a0b1b43ca"
         }
     },
