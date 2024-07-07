@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://windows.metasploit.com/metasploit-framework-6.4.15-20240623103629-1rapid7-1-x64.msi",
-            "hash": "1b6346011ce5354f0853dde03a021de49baea503842006cfe4a5f93a0b1b43ca"
+            "hash": "31e7d95c9e967ba6ae99e268237ba1752334bdd5ef4f16d2b6eeca08cb84e672"
         }
     },
     "pre_install": "Remove-Item \"$dir\\*\" -Exclude 'metasploit-framework.zip' -Recurse; Expand-7zipArchive \"$dir\\metasploit-framework.zip\" \"$dir\" -Removal",
