@@ -1,11 +1,11 @@
 {
-    "version": "6.4.8-20240504103507",
+    "version": "6.4.17-20240708103619",
     "homepage": "https://www.metasploit.com/",
     "description": "A popular framework used for penetration testing.",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://windows.metasploit.com/metasploit-framework-6.4.15-20240623103629-1rapid7-1-x64.msi",
+            "url": "https://windows.metasploit.com/metasploit-framework-6.4.17-20240708103619-1rapid7-1-x64.msi",
             "hash": "31e7d95c9e967ba6ae99e268237ba1752334bdd5ef4f16d2b6eeca08cb84e672"
         }
     },
