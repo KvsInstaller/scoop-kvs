@@ -4,7 +4,7 @@
   "description": "业界最强大的SSH客户机",
   "architecture": {
     "64bit": {
-      "url": "https://cdn.netsarang.net/v7/Xshell-latest-p#dl.7z",
+      "url": "https://cdn.netsarang.net/v7/Xshell-latest-p",
       "hash": ""
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://cdn.netsarang.net/v7/Xshell-latest-p#dl.7z"
+        "url": "https://cdn.netsarang.net/v7/Xshell-latest-p"
       }
     },
     "hash": {
